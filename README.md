@@ -2,4 +2,4 @@
 
 This is my website
 
-![](images/Figure2.tif)
+![](images/wQuyen.png)
